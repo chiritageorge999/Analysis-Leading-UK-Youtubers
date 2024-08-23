@@ -2,7 +2,7 @@
 
 ![powerbi-dashboard](assets/images/dashboard.png)
 
-Feel free to [download](assets/proiect_yt.pbix) the pbix file of the dashboard to interact with and explore all the data.
+Feel free to [download](assets/proiect_yt.pbix) the pbix file of the dashboard to interact with and explore.
 
 # Objective 
 - What is the key pain point?
