@@ -1,5 +1,6 @@
 # Data Portofolio Project: Excel, SQL, PowerBi
 
+![powerbi-dashboard](assets/images/dashboard.png)
 
 # Objective 
 - What is the key pain point?
