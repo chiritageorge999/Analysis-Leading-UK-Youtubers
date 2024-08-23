@@ -2,6 +2,8 @@
 
 ![powerbi-dashboard](assets/images/dashboard.png)
 
+Feel free to (download)[assets/proiect_yt.pbix] the pbix file of the dashboard to interact with and explore all the data.
+
 # Objective 
 - What is the key pain point?
 The Head of Marketing wants to identify the top YouTubers in the UK market for 2024. This information will be crucial in guiding future marketing campaign decisions for the year.
