@@ -12,7 +12,7 @@ A Data Portfolio Project that utilizes Power BI, Excel, and SQL.
 - [Data Source](#data-source)
 - [Stages](#stages)
 - [Design](#design)
-  - [Dashboard mockup](#Dashboard-mockup)
+  - [Dashboard mockup](#dashboard-mockup)
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
