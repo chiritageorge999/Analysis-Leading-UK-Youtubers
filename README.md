@@ -1,5 +1,5 @@
 # In-Depth Analysis of Leading UK YouTubers
-##### A Data Portfolio Project that utilizes Power BI, Excel, and SQL.
+A Data Portfolio Project that utilizes Power BI, Excel, and SQL.
 
 ### You can interact with the dashboard!
 
