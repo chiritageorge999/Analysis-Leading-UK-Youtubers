@@ -21,7 +21,6 @@ A Data Portfolio Project that utilizes Power BI, Excel, and SQL.
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
 - [Testing](#testing)
-
 - [DAX Measures](#dax-measures)
 - [Analysis](#analysis)
   - [Findings](#findings)
