@@ -2,6 +2,8 @@
 
 <iframe title="proiect_yt" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiMGE3OTJjNTEtYjRmNC00Y2IyLTk1MTctMmZiYzFiMGU1NjRiIiwidCI6ImViOGZiNTVjLTcyMDEtNDE0Yy05MDdlLWVhYTAwMmZlOThhMCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
+https://app.powerbi.com/view?r=eyJrIjoiMGE3OTJjNTEtYjRmNC00Y2IyLTk1MTctMmZiYzFiMGU1NjRiIiwidCI6ImViOGZiNTVjLTcyMDEtNDE0Yy05MDdlLWVhYTAwMmZlOThhMCIsImMiOjN9
+
 ![powerbi-dashboard](assets/images/dashboard.png)
 
 Feel free to [download](assets/proiect_yt.pbix) the pbix file of the dashboard to interact with and explore.
