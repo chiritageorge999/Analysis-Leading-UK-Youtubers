@@ -6,6 +6,30 @@ A Data Portfolio Project that utilizes Power BI, Excel, and SQL.
 <iframe title="proiect_yt" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiMGE3OTJjNTEtYjRmNC00Y2IyLTk1MTctMmZiYzFiMGU1NjRiIiwidCI6ImViOGZiNTVjLTcyMDEtNDE0Yy05MDdlLWVhYTAwMmZlOThhMCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 
+# Table of contents 
+
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Stages](#stages)
+- [Design](#design)
+  - [Dashboard mockup](#Dashboard-mockup)
+  - [Tools](#tools)
+- [Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data exploration notes](#data-exploration-notes)
+  - [Data Cleaning](#data-cleaning)
+  - [Transform the Data](#transform-the-data)
+  - [Create the SQL View](#create-the-sql-view)
+- [Testing](#testing)
+
+- [DAX Measures](#dax-measures)
+- [Analysis](#analysis)
+  - [Findings](#findings)
+  - [Validation](#validation)
+  - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+
+
 # Objective 
 - What is the key pain point?
 The Head of Marketing wants to identify the top YouTubers in the UK market for 2024. This information will be crucial in guiding future marketing campaign decisions for the year.
